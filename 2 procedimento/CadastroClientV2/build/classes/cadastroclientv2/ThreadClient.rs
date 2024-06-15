@@ -1,1 +1,0 @@
-cadastroclientV2.ThreadClient
